@@ -54,13 +54,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:id="@+id/head_inst"
+        android:id="@+id/head_inst2"
         android:text="QR CODE SECTION"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/instagram"
+        android:id="@+id/instagram2"
         android:text="1. You will be provided with a QR code which contains the clue to the next location.\n 2.6. There are total 5 QR codes (Including the one at home), When you are done with as many you can scan, return to the start point.
         \n3. Solve the clue and go to the location in the QR code to receive points.\n 4. You can skip any riddle using the skip clue button.
         .\n 5. Remember you cannot scan a QR once you have skipped it.\n6. Your results will be only accepted till 5.45pm. Any submissions after that will not be considered.\n"/>
